@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orianna</title>
+    <link>https://weikang.li/</link>
+    <description>Recent content on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Thu, 13 Sep 2018 22:31:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://weikang.li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog养成记(14) 让同页滚动更平滑</title>
+      <link>https://weikang.li/blog/2018-08/blog%E5%85%BB%E6%88%90%E8%AE%B014-%E8%AE%A9%E5%90%8C%E9%A1%B5%E6%BB%9A%E5%8A%A8%E6%9B%B4%E5%B9%B3%E6%BB%91/</link>
+      <pubDate>Sat, 18 Aug 2018 20:14:59 +0800</pubDate>
+      
+      <guid>https://weikang.li/blog/2018-08/blog%E5%85%BB%E6%88%90%E8%AE%B014-%E8%AE%A9%E5%90%8C%E9%A1%B5%E6%BB%9A%E5%8A%A8%E6%9B%B4%E5%B9%B3%E6%BB%91/</guid>
+      <description>&lt;p&gt;上一期说到增加toc侧边栏，但是直接跳转非常突兀，因此特地找了让同页跳转滚动更平滑的插件。
+&amp;lt;code&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置smooth-scroll插件&#34;&gt;配置smooth-scroll插件&lt;/h2&gt;
+&lt;p&gt;首先&lt;a href=&#34;https://github.com/kswedberg/jquery-smooth-scroll/releases&#34;&gt;下载smooth-scroll插件&lt;/a&gt;，将其中&lt;code&gt;jquery.smooth-scroll.js&lt;/code&gt;放入&lt;code&gt;js&lt;/code&gt;文件夹中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blog养成记(11) 给网站加个小icon</title>
+      <link>https://weikang.li/blog/2018-08/blog%E5%85%BB%E6%88%90%E8%AE%B011-%E7%BB%99%E7%BD%91%E7%AB%99%E5%8A%A0%E4%B8%AA%E5%B0%8Ficon/</link>
+      <pubDate>Mon, 13 Aug 2018 00:14:19 +0800</pubDate>
+      
+      <guid>https://weikang.li/blog/2018-08/blog%E5%85%BB%E6%88%90%E8%AE%B011-%E7%BB%99%E7%BD%91%E7%AB%99%E5%8A%A0%E4%B8%AA%E5%B0%8Ficon/</guid>
+      <description>我们经常看到百度等网页会有自己的网站图标，在浏览器打开时显示在左侧，那如何给自己的网站也添加这么一个icon呢？</description>
+    </item>
+    
+    <item>
+      <title>音乐剧《Cat》repo</title>
+      <link>https://weikang.li/blog/2018-08/%E9%9F%B3%E4%B9%90%E5%89%A7catrepo/</link>
+      <pubDate>Sun, 12 Aug 2018 23:03:12 +0800</pubDate>
+      
+      <guid>https://weikang.li/blog/2018-08/%E9%9F%B3%E4%B9%90%E5%89%A7catrepo/</guid>
+      <description>观剧档案 剧名：音乐剧《Cat》 观剧地点：上海大剧院 观剧时间：2018年8月1日 19:30 观剧位置：8排1座 题外话 看着时间还算早，想买个大鸡排，结果来福士地下一楼的豪大大没了，逛了一圈不知道吃什么，想要还能接受且速度快的，纠结良久决定肯德基。来到肯德基手机下单一个老北京，然后就后悔了，肯德基里等的人人山人海，等了快15min还早着的时候，我纠结了一下，天大地大，看戏最大，于是放弃鸡肉卷直奔大剧院。 Repo 位置 大剧</description>
+    </item>
+    
+    <item>
+      <title>前端试水(2) 使用docker镜像的Sass配置</title>
+      <link>https://weikang.li/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B42-%E4%BD%BF%E7%94%A8docker%E9%95%9C%E5%83%8F%E7%9A%84sass%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Thu, 02 Aug 2018 15:49:22 +0800</pubDate>
+      
+      <guid>https://weikang.li/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B42-%E4%BD%BF%E7%94%A8docker%E9%95%9C%E5%83%8F%E7%9A%84sass%E9%85%8D%E7%BD%AE/</guid>
+      <description>前言 半年前，由于终于将博客主题初版设计出来准备开始实施，在less和sass中纠结良久选择了sass。为了保持环境纯净性，想用docker装sass，用node-sass，试了几次中间都失败，无奈放弃。几乎半年后的今天，莫名又开始有搭建网页的欲望，于是又开始折腾。不过这次运气不错，终于折腾成功。 Sass是什么 Sass 是一个 css的预编译器。它在css语法的基础上，引入了更多的变量、规则等功能，可以帮助c</description>
+    </item>
+    
+    <item>
+      <title>前端试水(1) 前端技术路线</title>
+      <link>https://weikang.li/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
+      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
+      
+      <guid>https://weikang.li/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
+      <description>前言 对于前端的了解欲望实际上是从想对博客主题进行修改开始的。但是前端这部分一直对我来说是个谜，虽然这些名词都能搜索到，但一直傻傻的不得其门而入。总算在一年后的今天，尽管还有很多地方暂时是迷雾状态，但貌似略了解一点前端的整体框架。现在算是开了新的一个系列，在此算是记录一下我了解的前端的技术路线，如果那些和我一样的前端小白们能通过这个也大概了解一点到底现在需要学的、用的是什么，就再好不过了。 对了，先声</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://weikang.li/slides/test/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://weikang.li/slides/test/</guid>
+      <description>The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an &amp;ldquo;official version&amp;rdquo; of The Hitchhiker&amp;rsquo;s Guide to the Galaxy, as they include text from the first novel.
+Movie A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.</description>
+    </item>
+    
+  </channel>
+</rss>
